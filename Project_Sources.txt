@@ -1,0 +1,7 @@
+https://www.javatpoint.com/java-get-current-date
+
+https://www.baeldung.com/java-get-day-of-week
+
+https://javaf1.com/snippet/get-the-first-monday-of-a-month-in-java
+
+https://howtodoinjava.com/java/date-time/add-days-months-years/
